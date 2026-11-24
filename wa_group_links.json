@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-18T09:01:59.347Z",
-  "total": 486,
+  "updatedAt": "2026-11-24T01:13:53.157Z",
+  "total": 487,
   "links": [
     {
       "code": "LgGVOOWJ8zs88VHgezcgsf",
@@ -4375,6 +4375,15 @@
       "sender": "6285879220690",
       "senderName": "Af",
       "capturedAt": "2026-11-18T08:44:48.178Z"
+    },
+    {
+      "code": "G2YcdUs0d9o3wImzoYNJnZ",
+      "url": "https://chat.whatsapp.com/G2YcdUs0d9o3wImzoYNJnZ",
+      "groupName": "JB ALL GAME  || BY AF STORE 🔰",
+      "category": "jb",
+      "sourceType": "web-submit",
+      "submittedBy": "alvinzafarel@gmail.com",
+      "capturedAt": "2026-11-24T01:13:53.157Z"
     }
   ]
 }
